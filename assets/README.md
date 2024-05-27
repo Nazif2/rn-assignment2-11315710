@@ -13,7 +13,7 @@ The task involved creating a React Native application with the following require
 
 ## Screenshots
 
-![App Screenshot](./assets/photo_2024-05-27_11-19-25.jpg_)
+![App Screenshot](./assets/photo_2024-05-27_11-19-25.jpg)
 
 ## Instructions
 
